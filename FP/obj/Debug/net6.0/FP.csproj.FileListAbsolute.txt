@@ -1,0 +1,14 @@
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\bin\Debug\net6.0\FP.exe
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\bin\Debug\net6.0\FP.deps.json
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\bin\Debug\net6.0\FP.runtimeconfig.json
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\bin\Debug\net6.0\FP.dll
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\bin\Debug\net6.0\FP.pdb
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\obj\Debug\net6.0\FP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\obj\Debug\net6.0\FP.AssemblyInfoInputs.cache
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\obj\Debug\net6.0\FP.AssemblyInfo.cs
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\obj\Debug\net6.0\FP.csproj.CoreCompileInputs.cache
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\obj\Debug\net6.0\FP.dll
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\obj\Debug\net6.0\refint\FP.dll
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\obj\Debug\net6.0\FP.pdb
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\obj\Debug\net6.0\FP.genruntimeconfig.cache
+D:\Kuliah\semester 2\strukdat\FP\FP\FP\obj\Debug\net6.0\ref\FP.dll
